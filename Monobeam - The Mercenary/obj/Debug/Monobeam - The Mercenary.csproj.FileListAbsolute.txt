@@ -1,0 +1,20 @@
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Newtonsoft.Json.dll
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Newtonsoft.Json.xml
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\obj\Debug\Monobeam - The Mercenary.csprojAssemblyReference.cache
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\obj\Debug\Monobeam - The Mercenary.csproj.CoreCompileInputs.cache
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\obj\Debug\Monobeam - The Mercenary.csproj.CopyComplete
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\SharpDX.dll
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\SharpDX.XInput.dll
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\WindowsInput.dll
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\SharpDX.pdb
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\SharpDX.XInput.pdb
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\SharpDX.XInput.xml
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\WindowsInput.xml
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Monobeam - The Mercenary.exe.config
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Monobeam - The Mercenary.exe
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Monobeam - The Mercenary.pdb
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\obj\Debug\Monobeam - The Mercenary.exe
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\obj\Debug\Monobeam - The Mercenary.pdb
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Audio\Content\157846__darkmast49__fightscene.wav
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Audio\Content\368367__thezero__game-over-sound.wav
+F:\PROJEKTY\Languages\C#\Monobeam - The Mercenary\Monobeam - The Mercenary\bin\Debug\Audio\Content\458368__legend1060__sci-fi-theme.wav

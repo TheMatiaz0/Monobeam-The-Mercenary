@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Audio.AudioSystem" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAACAAAAAAAAAAAAAAACAoAAAAAAAAAA=</HashCode>
+      <FileName>Audio\AudioSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Audio.NativeMetods" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio\AudioSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Input.ControlEvent" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Base\ControlEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Input.Gamepad" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAB4CICAgAAgABAIAAAAAAABQAIAAAEAkAEAAAAA=</HashCode>
+      <FileName>Base\Gamepad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Input.CommandSystem" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAgAAAEAAAoAAAABEAAAAABAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Input\CommandSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Input.OptionsButtons" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEACAAAAAAAAAAAAQAAYAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>OptionsButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Input.CommandStructure" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAoAAgEAAAoAAAAAAEAAAAAAAABAAAAAAAAAgAAABA=</HashCode>
+      <FileName>Translation\CommandStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Interface.GUI" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQICoAAQAZAAQAIAAIAQAABAIAIAAAQgAAABBAAM=</HashCode>
+      <FileName>Base\GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Interface.Dialogue" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAIAACABAAAAAAAAAACg=</HashCode>
+      <FileName>Dialogue\Dialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.IListPlus" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\IListPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Ending" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ending.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.GameOver" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAACAACAAAA=</HashCode>
+      <FileName>GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.LogFile" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEBAAAA=</HashCode>
+      <FileName>LogFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.PauseMenuButtons" Collapsed="true">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>PauseMenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Program" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAEABAAiAAwAAAIAAAwwQAgBAICIAAABABgCIE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Position.PointExtension" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAYAAgAAAAAAAAAAAAAAAAQAAAAAABA=</HashCode>
+      <FileName>Base\PointExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.CombatSystem" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAiAKAAAAgAAAAAEACCAICgAAAAAEAAgABAAAg=</HashCode>
+      <FileName>Combat\CombatSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.Enemy" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAIIACAEgAIAAUIRAASlAAAAgCIACAAhQAAo=</HashCode>
+      <FileName>Combat\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.PoniaczSeba" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NPC\Content\Enemy\PoniaczSeba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.ZombieThomas" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NPC\Content\Enemy\ZombieThomas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.BlacksmithRoger" Collapsed="true">
+    <Position X="8.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>NPC\Content\Shop\BlacksmithRoger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.ShopkeeperNPC" Collapsed="true">
+    <Position X="8.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAAQQAAAAAAAAAgAAAAAAAAAAAIEAggABIAAA=</HashCode>
+      <FileName>NPC\Content\Shop\ShopkeeperNPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.Narrator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAIAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>NPC\Content\Talkable\Narrator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.StrangerFirstNPC" Collapsed="true">
+    <Position X="10.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAg=</HashCode>
+      <FileName>NPC\Content\Talkable\StrangerFirstNPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.NPC" Collapsed="true">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAgAEAAAAQAAIAAAAAAAEAEAAAAAAA=</HashCode>
+      <FileName>NPC\NPC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.AI.SpawnRegionEntities" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIIAAAFAAAA=</HashCode>
+      <FileName>NPC\SpawnRegionEntities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.Inventory" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAACAAAAAAAwAAAAAAEAIAAAKFAAAA=</HashCode>
+      <FileName>Inventory\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.InventoryRecord" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Inventory\InventoryRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.DustyDirtyHelmet" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Content\Armor\RustyHelmet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.Sausage" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Content\Food\Sausage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.Gold" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Content\Other\Gold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.OldRustySword" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Content\Weapon\OldRustySword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.Item" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAgEAAAAAAQEAAgEQAAAAIAAAAAAAQg=</HashCode>
+      <FileName>Items\Item.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.ArmorItem" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Types\ArmorItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.Food" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Items\Types\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.SpecialItem" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Types\SpecialItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.WeaponItem" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAAAACAAAAAAI=</HashCode>
+      <FileName>Items\Types\WeaponItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Items.LootPackage" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LootPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Serialization.OptionsManager" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEgCAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA=</HashCode>
+      <FileName>OptionsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Serialization.SaveObject" Collapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Serialization\SaveObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Serialization.SaveSystem" Collapsed="true">
+    <Position X="22" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAMAgAAAAAAAQAAAAAAAABAAgAAAAAAA=</HashCode>
+      <FileName>Serialization\SaveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Serialization.SerializationJSON" Collapsed="true">
+    <Position X="23.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAAAAE=</HashCode>
+      <FileName>Serialization\SerializationJSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Progression.Character" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAWBAIAAAIKAEACgAMAAEIRACYFEAAEgiQSEAARYQCI=</HashCode>
+      <FileName>Progression\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Progression.Bard" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Classes\Bard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Progression.Lucky" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Classes\Lucky.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Progression.Mage" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Classes\Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Progression.Warrior" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Classes\Warrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.Good__because_Polish" Collapsed="true">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Quests\Content\Gather Quest\Good, because Polish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.Zombieez" Collapsed="true">
+    <Position X="5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Quests\Content\Kill Quest\Zombieez.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.TestQuest" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Quests\Content\TestQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.Quest" Collapsed="true">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAIAAAAAAQAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Progression\Quests\Quest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.QuestManager" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgABAAAAAQCAAIBAAEAAAAAAAAAAQAAAEAAIE=</HashCode>
+      <FileName>Progression\Quests\QuestManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.GatherQuest" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Quests\Types\GatherQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Quests.KillQuest" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Progression\Quests\Types\KillQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Translation.DialogueStructure" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgIA=</HashCode>
+      <FileName>Translation\DialogueStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Translation.InventoryStructure" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAA=</HashCode>
+      <FileName>Translation\InventoryStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Translation.ItemStructure" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAgAAAAAAAQEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Translation\ItemStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Translation.NPCStructure" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAAAAAQAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Translation\NPCStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheMatiaz0_MonobeamTheMercenary.Translation.TranslationSystem" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAACAAAAAABCAAgAAAAAAAAAEAAAAAQAA=</HashCode>
+      <FileName>Translation\TranslationSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TheMatiaz0_MonobeamTheMercenary.Input.Option" Collapsed="true">
+    <Position X="15" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgiAAAAAA=</HashCode>
+      <FileName>Base\Option.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TheMatiaz0_MonobeamTheMercenary.Position.Point" Collapsed="true">
+    <Position X="16.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAA4AQAAAAAAAAAAIAAAAAAAAAAYiA=</HashCode>
+      <FileName>Base\Point.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="TheMatiaz0_MonobeamTheMercenary.IName" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\IName.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheMatiaz0_MonobeamTheMercenary.IDialogueEntity" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Dialogue\DialogueEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheMatiaz0_MonobeamTheMercenary.IEntity" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAIAAEIBAAAFAAAAgAAAAAABAAAA=</HashCode>
+      <FileName>NPC\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheMatiaz0_MonobeamTheMercenary.Position.IPositionEntity" Collapsed="true">
+    <Position X="18.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Movement\IPositionEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheMatiaz0_MonobeamTheMercenary.AI.IFollowPlayer" Collapsed="true">
+    <Position X="16.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAACAEAAAAAAAAAACgAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Movement\FollowPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TheMatiaz0_MonobeamTheMercenary.Items.IEquipmentSlots" Collapsed="true">
+    <Position X="15" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAQAAI=</HashCode>
+      <FileName>IEquipmentSlots.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TheMatiaz0_MonobeamTheMercenary.Audio.AudioChannel" Collapsed="true">
+    <Position X="15" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Audio\AudioChannel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TheMatiaz0_MonobeamTheMercenary.Position.CollisionTag" Collapsed="true">
+    <Position X="16.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Movement\CollisionTag.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TheMatiaz0_MonobeamTheMercenary.Position.Region" Collapsed="true">
+    <Position X="23.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Movement\Region.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TheMatiaz0_MonobeamTheMercenary.AI.EnemyType" Collapsed="true">
+    <Position X="18.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAEAAAAAAAAAAIAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Combat\EnemyType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TheMatiaz0_MonobeamTheMercenary.Items.ItemAttribute" Collapsed="true">
+    <Position X="22" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAICAAgAAAAAAAAAAAAAAAAAAgAEAAAAgEAAAA=</HashCode>
+      <FileName>Items\ItemAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TheMatiaz0_MonobeamTheMercenary.Progression.Gender" Collapsed="true">
+    <Position X="20.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Progression\Gender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
