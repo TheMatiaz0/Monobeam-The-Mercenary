@@ -1,7 +1,0 @@
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\obj\Debug\SimpleRPGGame.csprojAssemblyReference.cache
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\obj\Debug\SimpleRPGGame.csproj.CoreCompileInputs.cache
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-F:\PROJEKTY\Languages\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
